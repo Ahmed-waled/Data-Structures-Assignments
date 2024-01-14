@@ -12,8 +12,7 @@ a)
     is ==> {balanced}
 b)
     arr={A, B, C, NULL, D, E, F, G, NULL, NULL, H}
-    not ==>{full, degenerate, complete, perfect}
-    is ==> {balanced}
+    not ==>{full, degenerate, complete, perfect, balanced}
 c)
     arr = {15, 11, 26, 8, 12, 20, 30, 6, 9, NULL, 14, NULL, NULL, NULL, 35}
     not ==> {full, degenerate, complete, perfect}
