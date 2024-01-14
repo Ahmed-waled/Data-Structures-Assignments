@@ -1,0 +1,3 @@
+E:/E-JUST/3rd year/Data Structure/Assignments/sheet 10/cmake-build-debug/CMakeFiles/sheet_10.dir
+E:/E-JUST/3rd year/Data Structure/Assignments/sheet 10/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/E-JUST/3rd year/Data Structure/Assignments/sheet 10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
