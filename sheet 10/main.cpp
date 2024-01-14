@@ -74,8 +74,8 @@ Q4:
                           \
                            100
     1)
-    No. of nodes in the left subtree of the root: 3
-    No. of nodes in the right subtree of the root: 4
+        No. of nodes in the left subtree of the root: 3
+        No. of nodes in the right subtree of the root: 4
 
     2)
         H = 3
@@ -94,7 +94,15 @@ Q4:
            3     8      37  60
                        /
                      24
-    not ==> {full, degenerate, complete, perfect, Balanced}
+     1)
+        No. of nodes in the left subtree of the root: 7
+        No. of nodes in the right subtree of the root: 4
+
+    2)
+        H = 4
+
+    3)
+        not ==> {full, degenerate, complete, perfect, Balanced}
 
 Q5:
  for a complete Binary Tree, each level is complete with its nodes except maybe the last level,
